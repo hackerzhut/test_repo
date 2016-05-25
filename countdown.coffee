@@ -9,6 +9,3 @@ console.log 'Surprise!!!!'
 
 sayHello = () ->
   "Hello World"
-
-sayNo = () ->
-  "NOOOOOOOOOOOOOOOOO"
