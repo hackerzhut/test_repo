@@ -6,6 +6,3 @@ h = setInterval ->
 do (->) until countdown is 0
 clearInterval h
 console.log 'Surprise!!!!'
-
-sayHello = () ->
-  "Hello World"
